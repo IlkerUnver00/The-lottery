@@ -1,0 +1,17 @@
+C:\Users\vektorel\Desktop\13 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.SayisalLoto.App\bin\Debug\Vektorel.SayisalLoto.App.exe.config
+C:\Users\vektorel\Desktop\13 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.SayisalLoto.App\bin\Debug\Vektorel.SayisalLoto.App.exe
+C:\Users\vektorel\Desktop\13 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.SayisalLoto.App\bin\Debug\Vektorel.SayisalLoto.App.pdb
+C:\Users\vektorel\Desktop\13 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.SayisalLoto.App\obj\Debug\Vektorel.SayisalLoto.App.exe
+C:\Users\vektorel\Desktop\13 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.SayisalLoto.App\obj\Debug\Vektorel.SayisalLoto.App.pdb
+C:\Users\vektorel\Desktop\14 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.SayisalLoto.App\bin\Debug\Vektorel.SayisalLoto.App.exe.config
+C:\Users\vektorel\Desktop\14 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.SayisalLoto.App\obj\Debug\Vektorel.SayisalLoto.App.exe
+C:\Users\vektorel\Desktop\14 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.SayisalLoto.App\obj\Debug\Vektorel.SayisalLoto.App.pdb
+C:\Users\vektorel\Desktop\14 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.SayisalLoto.App\bin\Debug\Vektorel.SayisalLoto.App.exe
+C:\Users\vektorel\Desktop\14 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.SayisalLoto.App\bin\Debug\Vektorel.SayisalLoto.App.pdb
+C:\Users\vektorel\Desktop\14 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.SayisalLoto.App\obj\Debug\Vektorel.SayisalLoto.App.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\20 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.SayisalLoto.App\bin\Debug\Vektorel.SayisalLoto.App.exe.config
+C:\Users\vektorel\Desktop\20 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.SayisalLoto.App\obj\Debug\Vektorel.SayisalLoto.App.exe
+C:\Users\vektorel\Desktop\20 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.SayisalLoto.App\obj\Debug\Vektorel.SayisalLoto.App.pdb
+C:\Users\vektorel\Desktop\20 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.SayisalLoto.App\bin\Debug\Vektorel.SayisalLoto.App.exe
+C:\Users\vektorel\Desktop\20 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.SayisalLoto.App\bin\Debug\Vektorel.SayisalLoto.App.pdb
+C:\Users\vektorel\Desktop\20 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.SayisalLoto.App\obj\Debug\Vektorel.SayisalLoto.App.csprojResolveAssemblyReference.cache
